@@ -2,6 +2,8 @@
 
 This project presents an interactive Power BI dashboard for analyzing the global data jobs market.
 It focuses on job demand, salary trends, remote work, and degree requirements across different job roles and countries.
+<img width="1251" height="703" alt="Screenshot 2026-02-23 132323" src="https://github.com/user-attachments/assets/02fc64bd-b26e-4a5e-8cd7-f26332483d9e" />
+<img width="1232" height="690" alt="Screenshot 2026-02-23 132405" src="https://github.com/user-attachments/assets/7ebc47c0-29c4-44f4-9fb4-b9e023351c9f" />
 
 🚀 Project Overview
 
